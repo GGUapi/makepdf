@@ -64,7 +64,7 @@
 ## 文件結構
 .  
 ├── main.py                # 主程序文件(檢貨單生成)  
-├── test.py                # 主程序文件(郵局面單生成)
+├── test.py                # 主程序文件(郵局面單生成)  
 ├── qrcode.png             # 用於插入的二維碼圖片  
 ├── README.md              # 說明文檔  
 └── requirements.txt       # Python 庫需求文件  
